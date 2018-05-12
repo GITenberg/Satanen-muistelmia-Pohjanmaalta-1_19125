@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8486
     wikipedia: http://fi.wikipedia.org/wiki/Sara_Wacklin
 description: 'Translation of: Hundrade minnen från Österbotten'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19125#Satanen-muistelmia-Pohjanmaalta-1
 gutenberg_issued: '2006-08-26'
 gutenberg_type: Text
 identifiers:
