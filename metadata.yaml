@@ -1,0 +1,40 @@
+_repo: Satanen-muistelmia-Pohjanmaalta-1_19125
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Aulén, Johan
+    aliases:
+    - Jaykka, Juho
+    - Aulen, Johan
+    - Aulén, J.
+    - Jäykkä, Juho
+    birthdate: 1837
+    deathdate: 1906
+    gutenberg_agent_id: '8487'
+    url: http://www.gutenberg.org/2009/agents/8487
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wacklin, Sara
+    alias: Wacklin, Saara
+    birthdate: 1790
+    deathdate: 1846
+    gutenberg_agent_id: '8486'
+    url: http://www.gutenberg.org/2009/agents/8486
+    wikipedia: http://fi.wikipedia.org/wiki/Sara_Wacklin
+description: 'Translation of: Hundrade minnen från Österbotten'
+gutenberg_issued: '2006-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19125'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Oulu (Finland) -- Biography -- Anecdotes, facetiae, satire, etc.'
+title: Satanen muistelmia Pohjanmaalta 1
+url: http://www.gutenberg.org/ebooks/19125
